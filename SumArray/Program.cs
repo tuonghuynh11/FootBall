@@ -2,7 +2,12 @@
 using System;
 
 class FirstProgram
-{
+{  
+    //new method
+    public static void NewMethod()
+    {
+        Console.WriteLine("Hello World");
+    }
     public static int Sum(int[] arr)
     {
         int sum = 0;
@@ -14,6 +19,8 @@ class FirstProgram
     }
     public static void Main(string []args)
     {
+        //new line
+        NewMethod();
         int n;
         Console.WriteLine("Nhap so luong phan tu");
 
