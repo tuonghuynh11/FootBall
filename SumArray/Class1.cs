@@ -11,6 +11,14 @@ namespace SumArray
         public void Print()
         {
             Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HELLO");
+
+
         }
     }
 
