@@ -1,0 +1,15 @@
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.csproj.AssemblyReference.cache
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.AssemblyInfoInputs.cache
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.AssemblyInfo.cs
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.csproj.CoreCompileInputs.cache
+D:\Winform_C_Sharp\SumArray\SumArray\bin\Debug\net6.0\SumArray.exe
+D:\Winform_C_Sharp\SumArray\SumArray\bin\Debug\net6.0\SumArray.deps.json
+D:\Winform_C_Sharp\SumArray\SumArray\bin\Debug\net6.0\SumArray.runtimeconfig.json
+D:\Winform_C_Sharp\SumArray\SumArray\bin\Debug\net6.0\SumArray.dll
+D:\Winform_C_Sharp\SumArray\SumArray\bin\Debug\net6.0\SumArray.pdb
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.dll
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\refint\SumArray.dll
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.pdb
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\SumArray.genruntimeconfig.cache
+D:\Winform_C_Sharp\SumArray\SumArray\obj\Debug\net6.0\ref\SumArray.dll
