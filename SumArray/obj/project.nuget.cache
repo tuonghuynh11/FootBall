@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "RH6FyrlOpm59bE0AME39/0902XBbztVm5/VcUKZ7A+llDT5QGkdCmYDOwnzJVuabs8dlcoz5HsVLtADjg0OVVQ==",
+  "dgSpecHash": "OLS67W68PhzbUZ0aUDRkfQUuh8oqebjIXUGRnbCEuKmGtMx146ESawt18EHVaUCoPWb/NQcq7pa1R+n+06chvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj",
+  "projectFilePath": "C:\\Users\\Tuong_301\\source\\repos\\FootBall\\SumArray\\SumArray.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

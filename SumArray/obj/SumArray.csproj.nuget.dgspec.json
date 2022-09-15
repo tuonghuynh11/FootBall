@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj": {}
+    "C:\\Users\\Tuong_301\\source\\repos\\FootBall\\SumArray\\SumArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj": {
+    "C:\\Users\\Tuong_301\\source\\repos\\FootBall\\SumArray\\SumArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj",
+        "projectUniqueName": "C:\\Users\\Tuong_301\\source\\repos\\FootBall\\SumArray\\SumArray.csproj",
         "projectName": "SumArray",
-        "projectPath": "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj",
+        "projectPath": "C:\\Users\\Tuong_301\\source\\repos\\FootBall\\SumArray\\SumArray.csproj",
         "packagesPath": "C:\\Users\\Tuong_301\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\obj\\",
         "projectStyle": "PackageReference",
