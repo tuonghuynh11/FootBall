@@ -21,6 +21,8 @@ class FirstProgram
     {
         //new line
         NewMethod();
+        NewMethod();
+        NewMethod();
         int n;
         Console.WriteLine("Nhap so luong phan tu");
 

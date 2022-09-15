@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pwHl/htGPj1YTXncIYUQ8JAEsRXMCC8PhSsn2YpEk+Sii/14RIJ/iU1FUQxPKXlso4yOxsM/PLm+3qZ+Gdcj9A==",
   "success": true,
   "projectFilePath": "D:\\Winform_C_Sharp\\SumArray\\SumArray\\SumArray.csproj",
+=======
+  "dgSpecHash": "RH6FyrlOpm59bE0AME39/0902XBbztVm5/VcUKZ7A+llDT5QGkdCmYDOwnzJVuabs8dlcoz5HsVLtADjg0OVVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tuong_301\\Source\\Repos\\FootBall\\SumArray\\SumArray.csproj",
+>>>>>>> 8c95d72d9866fa3effb692f75e3427eee6013cbc
   "expectedPackageFiles": [],
   "logs": []
 }
