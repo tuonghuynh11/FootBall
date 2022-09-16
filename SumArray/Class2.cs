@@ -9,6 +9,6 @@ namespace SumArray
     internal class Class2
     {
         int a= 100;
-        int b =900;
+    
     }
 }
