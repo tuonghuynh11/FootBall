@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace SumArray
 {
-<<<<<<< HEAD
-    internal class Class1
-    {
-    }
-=======
+
+
     class Class1
     {
         public void Print()
@@ -22,10 +19,10 @@ namespace SumArray
             Console.WriteLine("HI");
             Console.WriteLine("HI");
             Console.WriteLine("HELLO");
-
+            Console.WriteLine("New Line");
 
         }
     }
 
->>>>>>> 8c95d72d9866fa3effb692f75e3427eee6013cbc
+
 }
